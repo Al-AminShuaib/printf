@@ -32,6 +32,6 @@ int _printf(const char *format,...)
         i++;
     }
     va_end(values);
- 
+  
     return (0);
 }
